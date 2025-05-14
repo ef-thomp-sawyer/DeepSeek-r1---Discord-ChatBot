@@ -15,7 +15,7 @@ deepseek-discord-bot/
 • Primero, crea un archivo .env en la raíz de tu proyecto con el siguiente contenido:
 ```DISCORD_TOKEN=tu_token_de_discord_aquí
 DEEPSEEK_API_KEY=tu_clave_api_de_deepseek_aquí
-DISCORD_CLIENT_ID=tu_id_de_cliente_de_discord_opcional```
+DISCORD_CLIENT_ID=tu_id_de_cliente_de_discord_opcional
 
 # Características del Bot
 ## Comandos Slash:
