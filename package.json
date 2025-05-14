@@ -1,0 +1,18 @@
+{
+  "name": "deepseek-discord-bot",
+  "version": "1.0.0",
+  "description": "Chatbot de DeepSeek R-1 para Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
