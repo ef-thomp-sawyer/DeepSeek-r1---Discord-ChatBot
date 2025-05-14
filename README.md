@@ -40,7 +40,7 @@ DISCORD_CLIENT_ID=tu_id_de_cliente_de_discord_opcional
 # Instrucciones de uso
 • Instala las dependencias:
 ```npm install```
-• Configura el archivo ```.env`` con tus credenciales
+• Configura el archivo ```.env``` con tus credenciales
 • Inicia el bot:
 ```npm start```
 El bot registrará automáticamente los comandos slash y estará listo para interactuar en los canales donde se active con ```/startbot```.
