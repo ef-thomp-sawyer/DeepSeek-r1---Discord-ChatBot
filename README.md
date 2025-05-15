@@ -23,10 +23,15 @@ DISCORD_CLIENT_ID=tu_id_de_cliente_de_discord_opcional
 # Características del Bot
 ## Comandos Slash:
 • ```/startbot```: Activa el bot en el canal actual.
-• ```/detener```: Desactiva el bot en el canal actual
-• ```/personalidad [descripcion]```: Establece una personalidad personalizada
-• ```/modificacion_de_foto [url]```: Cambia la foto de perfil del bot
-• ```/modificacion_de_nombre [nombre]```: Cambia el nombre de visualización del bot
+
+• ```/detener```: Desactiva el bot en el canal actual.
+
+• ```/personalidad [descripcion]```: Establece una personalidad personalizada.
+
+• ```/modificacion_de_foto [url]```: Cambia la foto de perfil del bot.
+
+• ```/modificacion_de_nombre [nombre]```: Cambia el nombre de visualización del bot.
+
 ## Funcionalidades:
 • Respuestas contextuales usando DeepSeek R-1.
 
