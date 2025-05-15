@@ -59,3 +59,8 @@ DISCORD_CLIENT_ID=tu_id_de_cliente_de_discord_opcional
 ```npm start```
 
 El bot registrará automáticamente los comandos slash y estará listo para interactuar en los canales donde se active con ```/startbot```.
+
+## Véase también 
+
+Creating a Bot Account
+https://discordpy.readthedocs.io/en/stable/discord.html y discord.js
