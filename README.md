@@ -12,7 +12,8 @@ deepseek-discord-bot/
 ```
 
 # Configuración inicial
-• Primero, crea un archivo .env en la raíz de tu proyecto con el siguiente contenido:
+• Primero, crea un archivo ```.env``` en la raíz de tu proyecto con el siguiente contenido:
+```.env```
 ```
 DISCORD_TOKEN=tu_token_de_discord_aquí
 DEEPSEEK_API_KEY=tu_clave_api_de_deepseek_aquí
