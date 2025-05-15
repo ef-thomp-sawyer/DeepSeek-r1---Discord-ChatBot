@@ -64,3 +64,5 @@ El bot registrará automáticamente los comandos slash y estará listo para inte
 
 Creating a Bot Account
 https://discordpy.readthedocs.io/en/stable/discord.html y discord.js
+
+### powered by silly & bolchas c
