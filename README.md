@@ -1,5 +1,5 @@
 # DeepSeek-r1---Discord-ChatBot
-DeepSeek R-1 Chatbot para Discord
+DeepSeek R-1 Chatbot para Discord by Wang WAGNER
 
 Aquí tienes una implementación completa de un chatbot para Discord que utiliza la API de DeepSeek R-1. El bot incluye todos los comandos solicitados.
 
