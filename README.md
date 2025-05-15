@@ -22,16 +22,20 @@ DISCORD_CLIENT_ID=tu_id_de_cliente_de_discord_opcional
 
 # Características del Bot
 ## Comandos Slash:
-• /startbot: Activa el bot en el canal actual
-• /detener: Desactiva el bot en el canal actual
-• /personalidad [descripcion]: Establece una personalidad personalizada
-• /modificacion_de_foto [url]: Cambia la foto de perfil del bot
-• /modificacion_de_nombre [nombre]: Cambia el nombre de visualización del bot
+• ```/startbot```: Activa el bot en el canal actual.
+• ```/detener```: Desactiva el bot en el canal actual
+• ```/personalidad [descripcion]```: Establece una personalidad personalizada
+• ```/modificacion_de_foto [url]```: Cambia la foto de perfil del bot
+• ```/modificacion_de_nombre [nombre]```: Cambia el nombre de visualización del bot
 ## Funcionalidades:
-• Respuestas contextuales usando DeepSeek R-1
-• Personalización por usuario (cada usuario puede tener su propia configuración)
-• Estado por canal (puede estar activo en unos canales e inactivo en otros)
-• Respuestas en formato embed con imagen y nombre personalizable
+• Respuestas contextuales usando DeepSeek R-1.
+
+• Personalización por usuario (cada usuario puede tener su propia configuración).
+
+• Estado por canal (puede estar activo en unos canales e inactivo en otros).
+
+• Respuestas en formato embed con imagen y nombre personalizable.
+
 ## Requisitos:
 • Node.js 16.9.0 o superior
 • Token de Discord válido
