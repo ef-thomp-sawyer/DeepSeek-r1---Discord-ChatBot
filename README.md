@@ -43,13 +43,18 @@ DISCORD_CLIENT_ID=tu_id_de_cliente_de_discord_opcional
 
 ## Requisitos:
 • Node.js 16.9.0 o superior
+
 • Token de Discord válido
+
 • API key de DeepSeek R-1
 
 # Instrucciones de uso
 • Instala las dependencias:
 ```npm install```
+
 • Configura el archivo ```.env``` con tus credenciales
+
 • Inicia el bot:
 ```npm start```
+
 El bot registrará automáticamente los comandos slash y estará listo para interactuar en los canales donde se active con ```/startbot```.
