@@ -60,6 +60,10 @@ DISCORD_CLIENT_ID=tu_id_de_cliente_de_discord_opcional
 
 El bot registrará automáticamente los comandos slash y estará listo para interactuar en los canales donde se active con ```/startbot```.
 
+## Añadir al Servidor (OAuth2)
+Personal DEMO
+https://discord.com/oauth2/authorize?client_id=1372262086440386570&permissions=8&integration_type=0&scope=bot
+
 ## Véase también 
 
 Creating a Bot Account
