@@ -52,6 +52,7 @@ DISCORD_CLIENT_ID=tu_id_de_cliente_de_discord_opcional
 # Instrucciones de uso
 • Instala las dependencias:
 ```npm install```
+(alternativamente: ```npm install discord.js axios node-schedule dotenv cheerio```)
 
 • Configura el archivo ```.env``` con tus credenciales
 
